@@ -1,5 +1,5 @@
 basic:
-    name: Torp-Gleichner
+    name: 'Raynor Ltd'
     environments:
         production: 'https://GOOGLE.com'
         staging: ''
